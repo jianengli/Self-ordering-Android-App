@@ -15,7 +15,7 @@
 
 ## Livedemo
 <p align="center">
-<img src="https://github.com/jianengli/simulating-canteen-queuing-system/blob/master/running%20result.gif"/>
+<img src="http://users.du.se/~h19jiali/Github_video/livedemo.gif"/>
 </p>
 <p align="center">
 
