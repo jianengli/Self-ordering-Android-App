@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Catering Service App</string>
+    <string name="eating">Eating</string>
+    <string name="drinking">Drinking</string>
+    <string name="set_meal">Set meal</string>
+    <string name="payment">Payment</string>
+    <string name="on_sale">ON SALE</string>
+    <string name="sold">SOLD</string>
+    <string name="order">Order</string>
+    <string name="cancle">Cancle</string>
+    <string name="back">Back</string>
+</resources>

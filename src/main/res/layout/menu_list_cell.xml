@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="15dp"
+    android:paddingRight="15dp"
+    android:paddingBottom="15dp"
+    android:paddingTop="5dp"
+    android:descendantFocusability="blocksDescendants">
+
+    <ImageView
+        android:layout_alignParentLeft="true"
+        android:id="@+id/food_img"
+        android:layout_width="135dp"
+        android:layout_height="85dp"
+        android:scaleType="centerCrop"
+        android:layout_marginRight="15dp"/>
+
+    <TextView
+        android:id="@+id/food_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_toRightOf="@id/food_img"
+        android:textSize="24sp"
+        android:textColor="@color/black"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:id="@+id/food_price"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_toLeftOf="@id/bt_add_to_list"
+        android:layout_toRightOf="@id/food_img"
+        android:layout_below="@id/food_name"
+        android:textSize="20sp" />
+
+    <ImageButton
+        android:id="@+id/bt_add_to_list"
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:scaleType="fitXY"
+        android:background="@color/white"
+        android:padding="0dp"
+        android:src="@drawable/ic_add"
+        android:focusable="false"/>
+</RelativeLayout>
