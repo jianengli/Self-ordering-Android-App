@@ -18,6 +18,7 @@
 <img src="http://users.du.se/~h19jiali/Github_video/livedemo.gif"/>
 </p>
 <p align="center">
+  
 - [Live demo](http://users.du.se/~h19jiali/Github_video/livedemo.gif)
 
 ## Maintainers
