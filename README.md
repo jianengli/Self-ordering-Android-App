@@ -13,13 +13,8 @@
 5. After you have clicked the payment bottom, it will jump to the successful payment  page, showing you the notice “successfully paid” and the remaining money in your  account.
 6. After a random time since you have paid the fee, there will a notification sent by  the android to notice you that the meal have been prepared. Clicking the  notification, it will jump to a page telling you which window to fetch the meal.
 
-## Livedemo
-<p align="center">
-<img src="http://users.du.se/~h19jiali/Github_video/livedemo.gif"/>
-</p>
-<p align="center">
-  
-- [Live demo](http://users.du.se/~h19jiali/Github_video/livedemo.gif)
+## Livedemo 
+- [Live demo](http://users.du.se/~h19jiali/Github_video/LiveDemo-foodOrderingApp.mp4)
 
 ## Maintainers
 [@Jianeng](https://github.com/jianengli).
